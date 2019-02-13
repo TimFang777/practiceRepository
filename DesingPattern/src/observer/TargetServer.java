@@ -34,7 +34,7 @@ public class TargetServer implements Observable{
 	}
 	public void setInformation(String s){
 		this.message=s;
-		System.out.println("Update info£º "+s);
+		System.out.println("Update info: "+s);
 		notifyObserver();
 	}
 }
