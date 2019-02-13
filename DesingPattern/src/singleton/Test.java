@@ -1,5 +1,12 @@
 package singleton;
-
+/***
+ * 
+ * @author 
+ * 
+ * true
+ * true
+ *
+ */
 
 public class Test {
 	public static void main(String[] args) {
